@@ -1,3 +1,16 @@
+#  Comprendre JSX, la composition avancée et les tests React
+
+## Structure projet 
+
+<img width="578" height="789" alt="Screenshot 2026-03-11 011536" src="https://github.com/user-attachments/assets/e135853c-6e07-4fad-b068-08d85061a5b6" />
+
+## Objectif 
+#### comprendre ce qu’est JSX et comment il fonctionne,
+#### créer des composants réutilisables avec Higher-Order Components (HOC) et Render Props,
+#### écrire des tests unitaires et d’intégration avec Jest et Testing Library.
+
+## Demonstration  
+
 <img width="958" height="869" alt="Screenshot 2026-03-08 173511" src="https://github.com/user-attachments/assets/12c80c7f-ebb5-4879-bf1d-e56a5bbbb2a2" />
 <img width="960" height="754" alt="Screenshot 2026-03-08 173623" src="https://github.com/user-attachments/assets/83726108-7e3c-41ce-9ddc-c9a158e24ee1" />
 <img width="1881" height="1078" alt="Screenshot 2026-03-08 174238" src="https://github.com/user-attachments/assets/9c36b4bb-31aa-497d-b3bd-279a74e6575d" />
